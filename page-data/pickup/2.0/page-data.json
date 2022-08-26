@@ -1,0 +1,6 @@
+{
+    "componentChunkName": "component---src-templates-protocol-protocol-tsx",
+    "path": "/pickup/2.0/",
+    "result": {"data":{"markdownRemark":{"html":"<h2 id=\"Details\">Details</h2>\n<p>This protocol is defined here: <a href=\"https://github.com/hyperledger/aries-rfcs/tree/main/features/0685-pickup-v2\">https://github.com/hyperledger/aries-rfcs/tree/main/features/0685-pickup-v2</a></p>","frontmatter":{"title":"Pickup","tags":[],"license":"MIT","publisher":"rodolfomiranda","status":"Production","piuri":"https://didcomm.org/messagepickup/2.0","summary":"A protocol to facilitate an agent picking up messages held at a mediator.","authors":[{"name":"Sam Curren","email":"telegramsam@gmail.com"},{"name":"James Ebert","email":"james.ebert@indicio.tech"}]},"fields":{"modifiedDate":"Sun Jul 17 2022 19:19:31 GMT+0000 (Coordinated Universal Time)","avatar":"https://avatars.githubusercontent.com/u/2913773?v=4&s=48","version":"2.0"}}},"pageContext":{"matchPath":"pickup/2.0/*","id":"38d5938e-7857-5449-ade5-17dcc090fa07","html":"<h2 id=\"Details\">Details</h2>\n<p>This protocol is defined here: <a href=\"https://github.com/hyperledger/aries-rfcs/tree/main/features/0685-pickup-v2\">https://github.com/hyperledger/aries-rfcs/tree/main/features/0685-pickup-v2</a></p>"}},
+    "staticQueryHashes": ["3000541721","3766577012"],
+    "matchPath": "pickup/2.0/*"}
